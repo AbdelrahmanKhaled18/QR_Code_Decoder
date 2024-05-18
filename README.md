@@ -4,7 +4,7 @@ In this Application we have 16 test case of differnert QRcodes with special need
 # Installations 
 ## Packges installation 
 * openCV: it is used for image processing 
-* numpy: it is used for data manipulation and converting the images into something can be processed and sent using sockets 
+* numpy: it is used for data manipulation 
 * Plt: used for Show the images 
 * reedsolo: used for error correction 
 * galois: used for error correction using BCH
