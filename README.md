@@ -1,7 +1,7 @@
 # QR Code Decoder
 
-This repository contains the implementation of a **QR Code Decoder** from scratch, developed as part of the **CSE483
-Computer Vision Course**. The decoder uses advanced image processing techniques to read and extract information from QR
+This repository contains the implementation of a **QR Code Decoder** from scratch, developed as part of the **Computer Vision Course**. 
+The decoder uses advanced image processing techniques to read and extract information from QR
 codes, including handling noise, applying error correction, and decoding the final message.
 
 ## **Table of Contents**
